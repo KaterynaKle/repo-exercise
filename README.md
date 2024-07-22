@@ -1,2 +1,2 @@
 # repo-exercise
-Coursera exercises
+Coursera exercises (Meta course)
